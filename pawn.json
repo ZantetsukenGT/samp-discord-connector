@@ -1,5 +1,5 @@
 {
-    "user": "maddinat0r",
+    "user": "ZantetsukenGT",
     "repo": "samp-discord-connector",
     "resources": [
         {
@@ -24,7 +24,7 @@
         }
     ],
     "runtime": {
-        "plugins": ["maddinat0r/samp-discord-connector"]
+        "plugins": ["ZantetsukenGT/samp-discord-connector"]
     },
     "contributors": [
         "maddinat0r",
